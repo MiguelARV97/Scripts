@@ -1,5 +1,5 @@
 #!/bin/bash
-#Autor: Raudel Lopez Espinoza
+#Autor: Miguel
 #Fecha: 07-03-24
 #Descripcion: Uso de variables de entorno
 clear
