@@ -1,5 +1,5 @@
 #!/bin/bash
-#Autor: Raudel Lopez Espinoza
+#Autor: Miguel
 #Fecha: 07-03-24
 #Descripcion: Manejo de parametros dentro de la inocacion de un script
 
